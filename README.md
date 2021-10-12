@@ -26,7 +26,7 @@ I'm a bit into hacking, a bit of machine learning. I like to train in the gym, l
  
 💬 Do you have any questions for me? Look for me in the social networks above  
 
-**languages and tools:**  
+**Languages and tools:**  
 
 <code><img height="20" src="https://github.com/github/explore/blob/278a654ebab0a3b0aa27e019477abd7b7cfb8cd3/topics/c/c.png"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/278a654ebab0a3b0aa27e019477abd7b7cfb8cd3/topics/cpp/cpp.png"></code>
