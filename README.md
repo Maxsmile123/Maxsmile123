@@ -20,7 +20,7 @@
 ---
 
 Hi, my name is Maxim, I am a programmer from MAI, Faculty of Applied Mathematics and Computer Science.
-I'm a bit into hacking, a bit of machine learning. I like to train in the gym, listen to Russian rap mixed with heavy metal and program to the soundtrack from the "Social Network". I believe that data is the future.
+I'm a bit into hacking, a bit of machine learning. I like to train in the gym, listen to Russian rap mixed with heavy metal and program to the soundtrack from the "Social Network". I believe that data is the future. I'm IT punk.
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="490" height="320" />
  
@@ -51,7 +51,7 @@ I'm a bit into hacking, a bit of machine learning. I like to train in the gym, l
 <code><img height="20" src="https://github.com/github/explore/blob/278a654ebab0a3b0aa27e019477abd7b7cfb8cd3/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/278a654ebab0a3b0aa27e019477abd7b7cfb8cd3/topics/jupyter-notebook/jupyter-notebook.png"></code>
 
-<p align="left"><img
+<p><img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxsmile123&hide=rich text format,jupyter notebook,scheme&layout=compact&langs_count=10&custom_title)" alt="Maxsmile123"/>
 
 </p>
