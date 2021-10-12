@@ -20,7 +20,13 @@
 ---
 
 Hi, my name is Maxim, I am a programmer from MAI, Faculty of Applied Mathematics and Computer Science.
-I'm a bit into hacking, a bit of machine learning. I like to train in the gym, listen to Russian rap mixed with heavy metal and program to the soundtrack from the "Social Network". I believe that data is the future. I'm IT punk.
+
+- I'm a bit into hacking, a bit of machine learning <img src="https://yt3.ggpht.com/ytc/AAUvwng5L2syzocEqItFfYIariTZD05s8IwX6wvS-BnW=s900-c-k-c0x00ffffff-no-rj" hight="15px" width="15px">
+- I like to train in the gym 🏋‍♂
+- listen to Russian rap mixed with heavy metal 🎶
+- program to the soundtrack from the "Social Network" 🎧
+- I believe that data is the future 😉
+- I'm IT punk.
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="490" height="320" />
  
