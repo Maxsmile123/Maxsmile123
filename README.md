@@ -22,7 +22,7 @@
 Hi, my name is Maxim, I am a programmer from MAI, Faculty of Applied Mathematics and Computer Science.
 I'm a bit into hacking, a bit of machine learning. I like to train in the gym, listen to Russian rap mixed with heavy metal and program to the soundtrack from the "Social Network". I believe that data is the future.
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="490" height="320" />
  
 💬 Do you have any questions for me? Look for me in the social networks above  
 
