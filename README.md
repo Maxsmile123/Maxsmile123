@@ -19,7 +19,7 @@
 
 ---
 
-Hi, my name is Maxim, I am a programmer from MAI, Faculty of Applied Mathematics and Computer Science.
+### Hi, my name is Maxim, I am a programmer from MAI, Faculty of Applied Mathematics and Computer Science.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxsmile123&hide=rich text format,jupyter notebook,scheme&layout=compact&langs_count=10&custom_title)" alt="Maxsmile123"/>
 
