@@ -21,12 +21,14 @@
 
 Hi, my name is Maxim, I am a programmer from MAI, Faculty of Applied Mathematics and Computer Science.
 
-- I'm a bit into hacking, a bit of machine learning <img align="left" src="https://github.com/Maxsmile123/Maxsmile123/blob/333a0368f66c4b37dfefea27ff1833aba50d7ad3/res/hacker.png" height="25px" width="25px">
-- I like to train in the gym <img align="left" src="https://github.com/Maxsmile123/Maxsmile123/blob/333a0368f66c4b37dfefea27ff1833aba50d7ad3/res/premium-icon-dumbbell-1079355.png" height="25px" width="25px">
-- Listen to Russian rap mixed with heavy metal <img align="left" src="https://github.com/Maxsmile123/Maxsmile123/blob/333a0368f66c4b37dfefea27ff1833aba50d7ad3/res/drum-set.png" height="25px" width="25px">
-- Program to the soundtrack from the "Social Network" <img align="left" src="https://github.com/Maxsmile123/Maxsmile123/blob/333a0368f66c4b37dfefea27ff1833aba50d7ad3/res/headphones.png" height="25px" width="25px">
-- I believe that data is the future <img align="left" src="https://github.com/Maxsmile123/Maxsmile123/blob/333a0368f66c4b37dfefea27ff1833aba50d7ad3/res/database.png" height="25px" width="25px">
-- I'm IT punk. <img align="left" src="https://github.com/Maxsmile123/Maxsmile123/blob/6e211085e3525c98d4ae9f2431d7034ce2cac3fb/res/programmer.png" height="25px" width="25px">
+- I'm a bit into hacking, a bit of machine learning <img align="" src="https://github.com/Maxsmile123/Maxsmile123/blob/333a0368f66c4b37dfefea27ff1833aba50d7ad3/res/hacker.png" height="25px" width="25px">
+- I like to train in the gym <img align="" src="https://github.com/Maxsmile123/Maxsmile123/blob/333a0368f66c4b37dfefea27ff1833aba50d7ad3/res/premium-icon-dumbbell-1079355.png" height="25px" width="25px">
+- Listen to Russian rap mixed with heavy metal <img align="" src="https://github.com/Maxsmile123/Maxsmile123/blob/333a0368f66c4b37dfefea27ff1833aba50d7ad3/res/drum-set.png" height="25px" width="25px">
+- Program to the soundtrack from the "Social Network" <img align="" src="https://github.com/Maxsmile123/Maxsmile123/blob/333a0368f66c4b37dfefea27ff1833aba50d7ad3/res/headphones.png" height="25px" width="25px">
+- I believe that data is the future <img align="" src="https://github.com/Maxsmile123/Maxsmile123/blob/333a0368f66c4b37dfefea27ff1833aba50d7ad3/res/database.png" height="25px" width="25px">
+- I'm IT punk. <img align="" src="https://github.com/Maxsmile123/Maxsmile123/blob/6e211085e3525c98d4ae9f2431d7034ce2cac3fb/res/programmer.png" height="25px" width="25px">
+
+---
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="490" height="320" />
  
