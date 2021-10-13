@@ -60,10 +60,10 @@ Hi, my name is Maxim, I am a programmer from MAI, Faculty of Applied Mathematics
 <code><img height="20" src="https://github.com/github/explore/blob/278a654ebab0a3b0aa27e019477abd7b7cfb8cd3/topics/jupyter-notebook/jupyter-notebook.png"></code>
 
 
+<p>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxsmile123&hide=rich text format,jupyter notebook,scheme&layout=compact&langs_count=10&custom_title)" alt="Maxsmile123"/>
+</p>
 
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxsmile123&hide=rich text format,jupyter notebook,scheme&layout=compact&langs_count=10&custom_title)" alt="Maxsmile123"/>
 
 
 
