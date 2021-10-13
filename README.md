@@ -21,12 +21,15 @@
 
 Hi, my name is Maxim, I am a programmer from MAI, Faculty of Applied Mathematics and Computer Science.
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxsmile123&hide=rich text format,jupyter notebook,scheme&layout=compact&langs_count=10&custom_title)" alt="Maxsmile123"/>
+
 - I'm a bit into hacking, a bit of machine learning <img align="" src="https://github.com/Maxsmile123/Maxsmile123/blob/333a0368f66c4b37dfefea27ff1833aba50d7ad3/res/hacker.png" height="25px" width="25px">
 - I like to train in the gym <img align="" src="https://github.com/Maxsmile123/Maxsmile123/blob/333a0368f66c4b37dfefea27ff1833aba50d7ad3/res/premium-icon-dumbbell-1079355.png" height="25px" width="25px">
 - Listen to Russian rap mixed with heavy metal <img align="" src="https://github.com/Maxsmile123/Maxsmile123/blob/333a0368f66c4b37dfefea27ff1833aba50d7ad3/res/drum-set.png" height="25px" width="25px">
 - Program to the soundtrack from the "Social Network" <img align="" src="https://github.com/Maxsmile123/Maxsmile123/blob/333a0368f66c4b37dfefea27ff1833aba50d7ad3/res/headphones.png" height="25px" width="25px">
 - I believe that data is the future <img align="" src="https://github.com/Maxsmile123/Maxsmile123/blob/333a0368f66c4b37dfefea27ff1833aba50d7ad3/res/database.png" height="25px" width="25px">
 - I'm IT punk. <img align="" src="https://github.com/Maxsmile123/Maxsmile123/blob/6e211085e3525c98d4ae9f2431d7034ce2cac3fb/res/programmer.png" height="25px" width="25px">
+
 
 ---
 <p>
@@ -60,9 +63,7 @@ Hi, my name is Maxim, I am a programmer from MAI, Faculty of Applied Mathematics
 <code><img height="20" src="https://github.com/github/explore/blob/278a654ebab0a3b0aa27e019477abd7b7cfb8cd3/topics/jupyter-notebook/jupyter-notebook.png"></code>
 
 
-<p>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxsmile123&hide=rich text format,jupyter notebook,scheme&layout=compact&langs_count=10&custom_title)" alt="Maxsmile123"/>
-</p>
+
 
 
 
@@ -70,5 +71,5 @@ Hi, my name is Maxim, I am a programmer from MAI, Faculty of Applied Mathematics
 
 ---
 ### Have a nice day! Enjoy the life!😀
-<a href="https://visitor-badge.laobi.icu/badge?page_id=Maxsmile123.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=Maxsmile123.visitor-badge&title=Visits" align="right" alt="Visits"></a>
+
 
