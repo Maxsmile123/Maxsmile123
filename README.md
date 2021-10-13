@@ -29,9 +29,9 @@ Hi, my name is Maxim, I am a programmer from MAI, Faculty of Applied Mathematics
 - I'm IT punk. <img align="" src="https://github.com/Maxsmile123/Maxsmile123/blob/6e211085e3525c98d4ae9f2431d7034ce2cac3fb/res/programmer.png" height="25px" width="25px">
 
 ---
-
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="490" height="280" />
- 
+<p>
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="490" height="320" />
+ </p>
 💬 Do you have any questions for me? Look for me in the social networks above  
 
 **Languages and tools:**  
