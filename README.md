@@ -30,7 +30,7 @@ Hi, my name is Maxim, I am a programmer from MAI, Faculty of Applied Mathematics
 
 ---
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="490" height="300" />
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="490" height="280" />
  
 💬 Do you have any questions for me? Look for me in the social networks above  
 
