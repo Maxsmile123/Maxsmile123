@@ -5,9 +5,7 @@
 <a href="https://vk.com/msysoev27">
   <img align="left" alt="My VK" width="22px" src="https://github.com/github/explore/blob/278a654ebab0a3b0aa27e019477abd7b7cfb8cd3/topics/vk/vk.png" />
 </a>
-<a href="https://www.tiktok.com/@true_msysoev27">
-  <img align="left" alt="My TikTok" width="22px" src="https://camo.githubusercontent.com/2e8eb55f077584fa3c389f9105afb78806b16c860184086c4828cee3da949609/68747470733a2f2f70757265706e672e636f6d2f7075626c69632f75706c6f6164732f7468756d626e61696c2f74696b2d746f6b2d6c6f676f2d6f33722e706e67" />
-</a>
+
 <a href="https://t.me/MASysoev">
   <img align="left" alt="My Telegram" width="22px" src="https://github.com/github/explore/blob/278a654ebab0a3b0aa27e019477abd7b7cfb8cd3/topics/telegram/telegram.png" />
 </a>   
