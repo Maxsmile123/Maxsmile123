@@ -19,7 +19,7 @@
 
 ### Hi, my name is Maxim, I am a programmer from MAI, Faculty of Applied Mathematics and Computer Science.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxsmile123&hide=rich text format,jupyter notebook,scheme&layout=compact&langs_count=10&custom_title)" alt="Maxsmile123"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxsmile123&hide=rich text format,jupyter notebook,scheme&layout=compact&langs_count=8&custom_title)" alt="Maxsmile123"/>
 
 - I'm a bit into hacking, a bit of machine learning <img align="" src="https://github.com/Maxsmile123/Maxsmile123/blob/333a0368f66c4b37dfefea27ff1833aba50d7ad3/res/hacker.png" height="25px" width="25px">
 - I like to train in the gym <img align="" src="https://github.com/Maxsmile123/Maxsmile123/blob/333a0368f66c4b37dfefea27ff1833aba50d7ad3/res/premium-icon-dumbbell-1079355.png" height="25px" width="25px">
@@ -43,7 +43,6 @@
 <code><img height="20" src="https://github.com/Maxsmile123/Maxsmile123/blob/fd2c15f1350096e53c6e3bd67d9735eea7875b9e/res/java.png"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/278a654ebab0a3b0aa27e019477abd7b7cfb8cd3/topics/css/css.png"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/278a654ebab0a3b0aa27e019477abd7b7cfb8cd3/topics/html/html.png"></code>
-<code><img height="20" src="https://github.com/github/explore/blob/278a654ebab0a3b0aa27e019477abd7b7cfb8cd3/topics/json/json.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://github.com/vscode-icons/vscode-icons/blob/0c3822689a6e278609fc9888bf5d89f3bdf9e6ea/icons/file_type_prolog.svg"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/278a654ebab0a3b0aa27e019477abd7b7cfb8cd3/topics/bash/bash.png"></code>
