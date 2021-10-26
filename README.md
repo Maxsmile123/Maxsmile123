@@ -1,4 +1,4 @@
-### Hello, friend... <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello, friend. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.instagram.com/msysoev27/">
   <img align="left" alt="My Inst" width="22px" src="https://github.com/github/explore/blob/278a654ebab0a3b0aa27e019477abd7b7cfb8cd3/topics/instagram/instagram.png"  />
 </a>
@@ -67,6 +67,6 @@
 
 
 ---
-### Have a nice day! Enjoy the life!😀
+### Have a nice day! Enjoy the life!😁 <img align="center" alt="GIF" src="https://github.com/Maxsmile123/Maxsmile123/blob/dec147d7efdfefa5172332fafb2223281656992a/res/Ifjg4cF.gif" width="98px" />
 
 
