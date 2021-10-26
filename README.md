@@ -67,6 +67,7 @@
 
 
 ---
-### Have a nice day! Enjoy the life!😁 <img align="center" alt="GIF" src="https://github.com/Maxsmile123/Maxsmile123/blob/dec147d7efdfefa5172332fafb2223281656992a/res/Ifjg4cF.gif" width="98px" />
+### Have a nice day! Enjoy the life!😁   
+<img align="center" alt="GIF" src="https://github.com/Maxsmile123/Maxsmile123/blob/dec147d7efdfefa5172332fafb2223281656992a/res/Ifjg4cF.gif" width="98px" />
 
 
