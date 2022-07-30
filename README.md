@@ -38,23 +38,28 @@
 
 **Languages and tools:**  
 
-<code><img height="20" src="https://github.com/github/explore/blob/278a654ebab0a3b0aa27e019477abd7b7cfb8cd3/topics/c/c.png"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/278a654ebab0a3b0aa27e019477abd7b7cfb8cd3/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://github.com/Maxsmile123/Maxsmile123/blob/fd2c15f1350096e53c6e3bd67d9735eea7875b9e/res/java.png"></code>
+<code><img height="20" src="https://github.com/github/explore/blob/b3ce199648971bf81452dfd7794624b20757ab94/topics/scikit-learn/scikit-learn.png"></code>
+<code><img height="20" src="https://github.com/github/explore/blob/b3ce199648971bf81452dfd7794624b20757ab94/topics/tensorflow/tensorflow.png"></code>
+<code><img height="20" src="https://github.com/numpy/numpy/blob/918065167a3860c97d52d6292f206101d660be6f/branding/logo/primary/numpylogo.svg"></code>
+<code><img height="20" src="https://github.com/github/explore/blob/b3ce199648971bf81452dfd7794624b20757ab94/topics/streamlit/streamlit.png"></code>
+<code><img height="20" src="https://github.com/github/explore/blob/b3ce199648971bf81452dfd7794624b20757ab94/topics/opencv/opencv.png"></code>
+<code><img height="20" src="https://github.com/vscode-icons/vscode-icons/blob/e7a7db60aabd60ef68eddce3b0eb62cb9b86582c/icons/file_type_go_gopher.svg"></code>
+<code><img height="20" src="https://github.com/github/explore/blob/278a654ebab0a3b0aa27e019477abd7b7cfb8cd3/topics/c/c.png"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/278a654ebab0a3b0aa27e019477abd7b7cfb8cd3/topics/css/css.png"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/278a654ebab0a3b0aa27e019477abd7b7cfb8cd3/topics/html/html.png"></code>
+<code><img height="20" src="https://github.com/github/explore/blob/b3ce199648971bf81452dfd7794624b20757ab94/topics/ethereum/ethereum.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://github.com/vscode-icons/vscode-icons/blob/0c3822689a6e278609fc9888bf5d89f3bdf9e6ea/icons/file_type_prolog.svg"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/278a654ebab0a3b0aa27e019477abd7b7cfb8cd3/topics/bash/bash.png"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/278a654ebab0a3b0aa27e019477abd7b7cfb8cd3/topics/linux/linux.png"></code>
-<code><img height="20" src="https://github.com/github/explore/blob/278a654ebab0a3b0aa27e019477abd7b7cfb8cd3/topics/maven/maven.png"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/278a654ebab0a3b0aa27e019477abd7b7cfb8cd3/topics/latex/latex.png"></code>
 
 
 **Development environments that I use:**
 
-<code><img height="20" src="https://github.com/github/explore/blob/278a654ebab0a3b0aa27e019477abd7b7cfb8cd3/topics/intellij-idea/intellij-idea.png"></code>
+<code><img height="20" src="https://github.com/JetBrains/logos/blob/8e43cb4534c7f06fad0e837de884687c60eefdcd/web/goland/goland.svg"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/278a654ebab0a3b0aa27e019477abd7b7cfb8cd3/topics/pycharm/pycharm.png"></code>
 <code><img height="20" src="https://github.com/mransley/service-icons/blob/a7db8c83ceed842e8b1e9b4038907ac7b18ab543/JetBrains/clion_logos/icon_CLion.svg"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/278a654ebab0a3b0aa27e019477abd7b7cfb8cd3/topics/visual-studio-code/visual-studio-code.png"></code>
