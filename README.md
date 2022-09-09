@@ -20,7 +20,7 @@
 
 ### Hi, my name is Maxim, I am a programmer from MAI, Faculty of Applied Mathematics and Computer Science.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxsmile123&hide=rich text format,jupyter notebook,scheme&layout=compact&langs_count=8&custom_title)" alt="Maxsmile123"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxsmile123&hide=rich%20text%20format,jupyter%20notebook,scheme&layout=compact&langs_count=8&custom_title" alt="Maxsmile123"/>
 
 - I'm a bit into hacking, a bit of machine learning <img align="" src="https://github.com/Maxsmile123/Maxsmile123/blob/333a0368f66c4b37dfefea27ff1833aba50d7ad3/res/hacker.png" height="25px" width="25px">
 - I like to train in the gym <img align="" src="https://github.com/Maxsmile123/Maxsmile123/blob/333a0368f66c4b37dfefea27ff1833aba50d7ad3/res/premium-icon-dumbbell-1079355.png" height="25px" width="25px">
