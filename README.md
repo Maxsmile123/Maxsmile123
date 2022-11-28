@@ -1,18 +1,11 @@
 ### Hello, friend. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> 
-<a href="https://www.instagram.com/msysoev27/">
-  <img align="left" alt="My Inst" width="22px" src="https://github.com/github/explore/blob/278a654ebab0a3b0aa27e019477abd7b7cfb8cd3/topics/instagram/instagram.png"  />
-</a>
 <a href="https://vk.com/msysoev27">
   <img align="left" alt="My VK" width="22px" src="https://github.com/github/explore/blob/278a654ebab0a3b0aa27e019477abd7b7cfb8cd3/topics/vk/vk.png" />
 </a>
 
 <a href="https://t.me/MASysoev">
   <img align="left" alt="My Telegram" width="22px" src="https://github.com/github/explore/blob/278a654ebab0a3b0aa27e019477abd7b7cfb8cd3/topics/telegram/telegram.png" />
-</a>   
-<a href="mailto:sysoevmaksim27@gmail.com">
-  <img align="left" alt="My email" hight= "22px" width="20px" src="https://github.com/github/explore/blob/278a654ebab0a3b0aa27e019477abd7b7cfb8cd3/topics/gmail/gmail.png" />
-</a>  
-
+</a>     
 
 <br/>
 
@@ -22,12 +15,13 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxsmile123&hide=rich%20text%20format,jupyter%20notebook,scheme&layout=compact&langs_count=8&custom_title" alt="Maxsmile123"/>
 
+- I'm backend developer in <img align="" src="https://github.com/logo/yandex-metrica/blob/3b79ca978a82c8fec190854c45dcdf940b260839/images/logo-white.svg" height="25px" width="45px">
 - I'm a bit into hacking, a bit of machine learning <img align="" src="https://github.com/Maxsmile123/Maxsmile123/blob/333a0368f66c4b37dfefea27ff1833aba50d7ad3/res/hacker.png" height="25px" width="25px">
 - I like to train in the gym <img align="" src="https://github.com/Maxsmile123/Maxsmile123/blob/333a0368f66c4b37dfefea27ff1833aba50d7ad3/res/premium-icon-dumbbell-1079355.png" height="25px" width="25px">
 - Listen to Russian rap mixed with heavy metal <img align="" src="https://github.com/Maxsmile123/Maxsmile123/blob/333a0368f66c4b37dfefea27ff1833aba50d7ad3/res/drum-set.png" height="25px" width="25px">
 - Program to the soundtrack from the "Social Network" <img align="" src="https://github.com/Maxsmile123/Maxsmile123/blob/333a0368f66c4b37dfefea27ff1833aba50d7ad3/res/headphones.png" height="25px" width="25px">
 - I believe that data is the future <img align="" src="https://github.com/Maxsmile123/Maxsmile123/blob/333a0368f66c4b37dfefea27ff1833aba50d7ad3/res/database.png" height="25px" width="25px">
-- I'm IT punk. <img align="" src="https://github.com/Maxsmile123/Maxsmile123/blob/6e211085e3525c98d4ae9f2431d7034ce2cac3fb/res/programmer.png" height="25px" width="25px">
+- I'm IT punk <img align="" src="https://github.com/Maxsmile123/Maxsmile123/blob/6e211085e3525c98d4ae9f2431d7034ce2cac3fb/res/programmer.png" height="25px" width="25px">
 
 
 ---
