@@ -16,7 +16,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxsmile123&hide=rich%20text%20format,jupyter%20notebook,scheme&layout=compact&langs_count=8&custom_title)" alt="Maxsmile123"/>
 
 - CTF Enjoyer <img align="" src="https://github.com/Maxsmile123/Maxsmile123/blob/333a0368f66c4b37dfefea27ff1833aba50d7ad3/res/hacker.png" height="25px" width="25px">
-- SRE Engineer, ex-Yandex <img align="" src="https://github.com/dastergon/awesome-sre/blob/e91ef69aa52129662164e54cc22272bc90e9b636/awesome-sre-logo.svg" height="25px" width="25px">
+- DevOps Engineer, ex-Yandex <img align="" src="https://github.com/dastergon/awesome-sre/blob/e91ef69aa52129662164e54cc22272bc90e9b636/awesome-sre-logo.svg" height="25px" width="25px">
 - I play heavy metal on drums in my own band <img align="" src="https://github.com/Maxsmile123/Maxsmile123/blob/333a0368f66c4b37dfefea27ff1833aba50d7ad3/res/drum-set.png" height="25px" width="25px">
 - Like soundtrack from the "Social Network" <img align="" src="https://github.com/Maxsmile123/Maxsmile123/blob/333a0368f66c4b37dfefea27ff1833aba50d7ad3/res/headphones.png" height="25px" width="25px">
 - I believe that C++ is the best language <img align="" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" height="25px" width="25px">
