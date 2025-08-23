@@ -13,8 +13,6 @@
 
 ### Hi, I'm Max, programmer from MAI, Faculty of Applied Mathematics and Computer Science.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxsmile123&hide=rich%20text%20format,jupyter%20notebook,scheme&layout=compact&langs_count=8&custom_title)" alt="Maxsmile123"/>
-
 - Founder Sysoev Capital
 - SRE Lead at T-bank, ex-Yandex <img align="" src="https://github.com/dastergon/awesome-sre/blob/e91ef69aa52129662164e54cc22272bc90e9b636/awesome-sre-logo.svg" height="25px" width="25px">
 - Play on drums <img align="" src="https://github.com/Maxsmile123/Maxsmile123/blob/333a0368f66c4b37dfefea27ff1833aba50d7ad3/res/drum-set.png" height="25px" width="25px">
@@ -24,7 +22,7 @@
 
 ---
 <p>
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="490" height="320" />
+ <img align="right" alt="Sysoev Capital logo" src="https://github.com/Maxsmile123/Maxsmile123/blob/217810e21e52e0f7720330f32656b3e517ab3888/res/Sysoev%20Capital%20logo.png" width="490" height="320" />
  </p>
 💬 Do you have any questions for me? Look for me in the social networks above  
 
