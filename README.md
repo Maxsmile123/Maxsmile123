@@ -11,10 +11,12 @@
 
 ---
 
-### Hi, I'm Max, programmer from MAI, Faculty of Applied Mathematics and Computer Science.
+### Hi, I'm Max.
 
-- Founder Sysoev Capital
+- Founder Sysoev Capital <img align="" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" height="25px" width="25px">
 - SRE Lead at T-bank, ex-Yandex <img align="" src="https://github.com/dastergon/awesome-sre/blob/e91ef69aa52129662164e54cc22272bc90e9b636/awesome-sre-logo.svg" height="25px" width="25px">
+- Bachelor of Applied Mathematics and Computer Science, MAI <img align="" src="https://upload.wikimedia.org/wikipedia/ru/f/f0/Emblem_of_Moscow_Aviation_Institute.svg" height="25px" width="25px">
+- Master of Finance, HSE <img align="" src="https://upload.wikimedia.org/wikipedia/ru/8/81/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%9D%D0%98%D0%A3_%D0%92%D0%A8%D0%AD.svg" height="25px" width="25px">
 - Play on drums <img align="" src="https://github.com/Maxsmile123/Maxsmile123/blob/333a0368f66c4b37dfefea27ff1833aba50d7ad3/res/drum-set.png" height="25px" width="25px">
 - Like soundtrack from the "Social Network" <img align="" src="https://github.com/Maxsmile123/Maxsmile123/blob/333a0368f66c4b37dfefea27ff1833aba50d7ad3/res/headphones.png" height="25px" width="25px">
 - I'm IT punk <img align="" src="https://github.com/Maxsmile123/Maxsmile123/blob/6e211085e3525c98d4ae9f2431d7034ce2cac3fb/res/programmer.png" height="25px" width="25px">
