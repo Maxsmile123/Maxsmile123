@@ -13,7 +13,7 @@
 
 ### Hi, I'm Max.
 
-- Founder Sysoev Capital <img align="" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" height="25px" width="25px">
+- Founder of Sysoev Capital <img align="" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" height="25px" width="25px">
 - SRE Lead at T-bank, ex-Yandex <img align="" src="https://github.com/dastergon/awesome-sre/blob/e91ef69aa52129662164e54cc22272bc90e9b636/awesome-sre-logo.svg" height="25px" width="25px">
 - Bachelor of Applied Mathematics and Computer Science, MAI <img align="" src="https://upload.wikimedia.org/wikipedia/ru/f/f0/Emblem_of_Moscow_Aviation_Institute.svg" height="25px" width="25px">
 - Master of Finance, HSE <img align="" src="https://upload.wikimedia.org/wikipedia/ru/8/81/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%9D%D0%98%D0%A3_%D0%92%D0%A8%D0%AD.svg" height="25px" width="25px">
