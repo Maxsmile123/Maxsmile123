@@ -13,7 +13,6 @@
 
 ### Hi, I'm Max.
 
-- Founder of Sysoev Capital <img align="" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" height="25px" width="25px">
 - SRE Lead at T-bank, ex-Yandex <img align="" src="https://github.com/dastergon/awesome-sre/blob/e91ef69aa52129662164e54cc22272bc90e9b636/awesome-sre-logo.svg" height="25px" width="25px">
 - Bachelor of Applied Mathematics and Computer Science, MAI <img align="" src="https://upload.wikimedia.org/wikipedia/ru/f/f0/Emblem_of_Moscow_Aviation_Institute.svg" height="25px" width="25px">
 - Master of Finance, HSE <img align="" src="https://upload.wikimedia.org/wikipedia/ru/8/81/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%9D%D0%98%D0%A3_%D0%92%D0%A8%D0%AD.svg" height="25px" width="25px">
@@ -23,7 +22,6 @@
 
 ---
 <p>
- <img align="right" alt="Sysoev Capital logo" src="https://github.com/Maxsmile123/Maxsmile123/blob/217810e21e52e0f7720330f32656b3e517ab3888/res/Sysoev%20Capital%20logo.png" width="490" height="320" />
  </p>
 💬 Do you have any questions for me? Look for me in the social networks above  
 
